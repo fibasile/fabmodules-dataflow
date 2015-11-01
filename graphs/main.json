@@ -1,0 +1,24 @@
+{
+    "properties": {
+        "name": "main",
+        "environment": {
+            "type": "noflo-browser"
+        }
+    },
+    "inports": {},
+    "outports": {},
+    "groups": [],
+    "processes": {
+        "fabmodules-hopper/ImageInput_y11kr": {
+            "component": "fabmodules-hopper/ImageInput",
+            "metadata": {
+                "label": "fabmodules-hopper/ImageInput",
+                "x": 576,
+                "y": 252,
+                "width": 72,
+                "height": 72
+            }
+        }
+    },
+    "connections": []
+}
